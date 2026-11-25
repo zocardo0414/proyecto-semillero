@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+  <rect width="900" height="500" fill="#f2f4f7"/>
+  <rect width="900" height="60" fill="#1b365d"/>
+  <text x="28" y="36" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">ScienTI · CvLAC · Producción Bibliográfica</text>
+
+  <rect x="60" y="80" width="780" height="396" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <rect x="60" y="80" width="780" height="38" fill="#1b365d"/>
+  <text x="80" y="104" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Nuevo Artículo Publicado</text>
+
+  <text x="84" y="146" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Título del artículo *</text>
+  <rect x="84" y="154" width="732" height="32" rx="3" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="96" y="175" font-family="Arial, sans-serif" font-size="13" fill="#111827">Aplicación de modelos de aprendizaje en semilleros</text>
+
+  <text x="84" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">ISSN de la revista *</text>
+  <rect x="84" y="218" width="220" height="32" rx="3" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="96" y="239" font-family="monospace" font-size="13" fill="#111827">1234-5678</text>
+
+  <text x="330" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Año *</text>
+  <rect x="330" y="218" width="120" height="32" rx="3" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="342" y="239" font-family="Arial, sans-serif" font-size="13" fill="#111827">2026</text>
+
+  <text x="476" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">DOI (Digital Object Identifier) *</text>
+  <rect x="476" y="218" width="340" height="32" rx="3" fill="#eff6ff" stroke="#2563eb"/>
+  <text x="488" y="239" font-family="monospace" font-size="12" fill="#1d4ed8">10.1234/ejemplo.2026</text>
+
+  <text x="84" y="278" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Coautores vinculados:</text>
+  <rect x="84" y="286" width="732" height="58" rx="3" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="98" y="310" font-family="Arial, sans-serif" font-size="12" fill="#111827">1. María Fernanda Gómez Rodríguez (Autor principal)</text>
+  <text x="98" y="330" font-family="Arial, sans-serif" font-size="12" fill="#111827">2. Carlos Andrés Ruiz (Coautor)</text>
+
+  <rect x="84" y="364" width="732" height="38" rx="4" fill="#fef3c7" stroke="#f59e0b"/>
+  <text x="100" y="388" font-family="Arial, sans-serif" font-size="12" fill="#92400e">⚠️ Recuerda: Sin ISSN y DOI completos, el producto puede quedar sin validar en convocatorias.</text>
+
+  <rect x="706" y="422" width="110" height="34" rx="4" fill="#2563eb"/>
+  <text x="761" y="444" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Guardar</text>
+</svg>

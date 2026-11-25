@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+  <rect width="900" height="500" fill="#f5f5f5"/>
+  <rect width="900" height="58" fill="#ffffff"/>
+  <line x1="0" y1="58" x2="900" y2="58" stroke="#e0e0e0"/>
+  <circle cx="42" cy="29" r="15" fill="#a6ce39"/>
+  <text x="42" y="34" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">iD</text>
+  <text x="66" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#4d4d4d">ORCID · Crear cuenta</text>
+
+  <!-- Tarjeta central de registro -->
+  <rect x="200" y="84" width="500" height="390" rx="6" fill="#ffffff" stroke="#dddddd"/>
+  <text x="232" y="122" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#333333">Regístrate para obtener tu ORCID iD</text>
+  <text x="232" y="144" font-family="Arial, sans-serif" font-size="12" fill="#666666">Paso 1 de 3 · Datos personales y correos electrónicos</text>
+
+  <text x="232" y="178" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333333">Nombre(s) *</text>
+  <rect x="232" y="186" width="436" height="34" rx="4" fill="#fafafa" stroke="#cccccc"/>
+  <text x="244" y="208" font-family="Arial, sans-serif" font-size="13" fill="#333333">María Fernanda</text>
+
+  <text x="232" y="242" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333333">Apellidos *</text>
+  <rect x="232" y="250" width="436" height="34" rx="4" fill="#fafafa" stroke="#cccccc"/>
+  <text x="244" y="272" font-family="Arial, sans-serif" font-size="13" fill="#333333">Gómez Rodríguez</text>
+
+  <text x="232" y="306" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333333">Correo electrónico principal (Institucional) *</text>
+  <rect x="232" y="314" width="436" height="34" rx="4" fill="#fafafa" stroke="#cccccc"/>
+  <text x="244" y="336" font-family="Arial, sans-serif" font-size="13" fill="#333333">m.gomez@universidad.edu.co</text>
+
+  <text x="232" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7f9f">+ Correo electrónico adicional (Personal recomendado)</text>
+  <rect x="232" y="378" width="436" height="34" rx="4" fill="#eef6f9" stroke="#2e7f9f"/>
+  <text x="244" y="400" font-family="Arial, sans-serif" font-size="13" fill="#2e7f9f">mariagomez@gmail.com</text>
+
+  <rect x="538" y="428" width="130" height="34" rx="4" fill="#2e7f9f"/>
+  <text x="603" y="450" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Siguiente →</text>
+</svg>

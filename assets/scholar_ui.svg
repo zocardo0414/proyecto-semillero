@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+  <!-- Fondo blanco clásico de Google Académico -->
+  <rect width="900" height="500" fill="#ffffff"/>
+  <rect width="900" height="56" fill="#f1f3f4"/>
+  <line x1="0" y1="56" x2="900" y2="56" stroke="#dadce0"/>
+  <text x="28" y="36" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a73e8">Google Académico</text>
+  <rect x="230" y="12" width="380" height="32" rx="16" fill="#ffffff" stroke="#dadce0"/>
+  <text x="248" y="33" font-family="Arial, sans-serif" font-size="13" fill="#5f6368">Buscar autores o artículos...</text>
+
+  <!-- Cabecera de perfil -->
+  <circle cx="68" cy="112" r="34" fill="#e8f0fe" stroke="#1a73e8"/>
+  <text x="68" y="120" font-family="Arial, sans-serif" font-size="24" fill="#1a73e8" text-anchor="middle">MG</text>
+  <text x="118" y="102" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#202124">María Fernanda Gómez</text>
+  <text x="118" y="122" font-family="Arial, sans-serif" font-size="13" fill="#5f6368">Investigadora de Semillero · Universidad Nacional</text>
+  <text x="118" y="140" font-family="Arial, sans-serif" font-size="12" fill="#137333">✓ Dirección de correo verificada de universidad.edu.co</text>
+
+  <!-- Tabla de artículos (izquierda) -->
+  <line x1="30" y1="166" x2="580" y2="166" stroke="#dadce0"/>
+  <text x="30" y="186" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5f6368">TÍTULO</text>
+  <text x="480" y="186" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5f6368">CITADO POR</text>
+  <text x="556" y="186" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5f6368">AÑO</text>
+  <line x1="30" y1="196" x2="580" y2="196" stroke="#dadce0"/>
+
+  <text x="30" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a0dab">Análisis de datos en semilleros universitarios</text>
+  <text x="30" y="238" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">M. Gómez, C. Ruiz · Revista Ingeniería</text>
+  <text x="504" y="226" font-family="Arial, sans-serif" font-size="13" fill="#1a0dab">14</text>
+  <text x="554" y="226" font-family="Arial, sans-serif" font-size="13" fill="#5f6368">2025</text>
+  <line x1="30" y1="252" x2="580" y2="252" stroke="#f1f3f4"/>
+
+  <text x="30" y="276" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a0dab">Visibilidad científica con ORCID y CvLAC</text>
+  <text x="30" y="294" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">M. Gómez · Encuentro Nacional de Semilleros</text>
+  <text x="508" y="282" font-family="Arial, sans-serif" font-size="13" fill="#1a0dab">9</text>
+  <text x="554" y="282" font-family="Arial, sans-serif" font-size="13" fill="#5f6368">2024</text>
+  <line x1="30" y1="308" x2="580" y2="308" stroke="#f1f3f4"/>
+
+  <text x="30" y="332" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a0dab">Metodologías activas en formación investigativa</text>
+  <text x="30" y="350" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">M. Gómez · Editorial Universitaria</text>
+  <text x="504" y="338" font-family="Arial, sans-serif" font-size="13" fill="#1a0dab">11</text>
+  <text x="554" y="338" font-family="Arial, sans-serif" font-size="13" fill="#5f6368">2023</text>
+
+  <!-- Panel derecho: Citado por + gráfico -->
+  <rect x="606" y="84" width="268" height="390" rx="4" fill="#ffffff" stroke="#dadce0"/>
+  <text x="624" y="112" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#202124">Citado por</text>
+  <text x="748" y="112" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Total</text>
+  <text x="810" y="112" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Desde 2021</text>
+  <line x1="624" y1="122" x2="856" y2="122" stroke="#dadce0"/>
+
+  <text x="624" y="148" font-family="Arial, sans-serif" font-size="13" fill="#202124">Citas</text>
+  <text x="756" y="148" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#202124">34</text>
+  <text x="826" y="148" font-family="Arial, sans-serif" font-size="13" fill="#5f6368">34</text>
+
+  <text x="624" y="178" font-family="Arial, sans-serif" font-size="13" fill="#202124">Índice h</text>
+  <text x="758" y="178" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#202124">3</text>
+  <text x="828" y="178" font-family="Arial, sans-serif" font-size="13" fill="#5f6368">3</text>
+
+  <text x="624" y="208" font-family="Arial, sans-serif" font-size="13" fill="#202124">Índice i10</text>
+  <text x="758" y="208" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#202124">2</text>
+  <text x="828" y="208" font-family="Arial, sans-serif" font-size="13" fill="#5f6368">2</text>
+
+  <!-- Gráfico de barras -->
+  <rect x="636" y="340" width="32" height="40" fill="#777777"/>
+  <rect x="688" y="310" width="32" height="70" fill="#777777"/>
+  <rect x="740" y="275" width="32" height="105" fill="#777777"/>
+  <rect x="792" y="250" width="32" height="130" fill="#1a73e8"/>
+  <text x="652" y="400" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" text-anchor="middle">2023</text>
+  <text x="704" y="400" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" text-anchor="middle">2024</text>
+  <text x="756" y="400" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" text-anchor="middle">2025</text>
+  <text x="808" y="400" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" text-anchor="middle">2026</text>
+</svg>

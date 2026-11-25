@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+  <rect width="900" height="500" fill="#f5f5f5"/>
+  <rect width="900" height="58" fill="#ffffff"/>
+  <line x1="0" y1="58" x2="900" y2="58" stroke="#e0e0e0"/>
+  <circle cx="42" cy="29" r="15" fill="#a6ce39"/>
+  <text x="42" y="34" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">iD</text>
+  <text x="66" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#4d4d4d">ORCID · Configuración de Visibilidad</text>
+
+  <rect x="140" y="88" width="620" height="380" rx="6" fill="#ffffff" stroke="#dddddd"/>
+  <text x="172" y="126" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333333">¿Quién puede ver tu información en ORCID?</text>
+  <text x="172" y="148" font-family="Arial, sans-serif" font-size="12" fill="#666666">Cada sección y dato de tu registro tiene su propio selector de privacidad</text>
+
+  <!-- Opción Verde -->
+  <rect x="172" y="172" width="556" height="82" rx="6" fill="#f0fdf4" stroke="#22c55e" stroke-width="2"/>
+  <circle cx="206" cy="213" r="16" fill="#22c55e"/>
+  <text x="206" y="218" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">🌐</text>
+  <text x="238" y="204" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#166534">Todos (Público)</text>
+  <text x="238" y="226" font-family="Arial, sans-serif" font-size="12" fill="#333333">Cualquier persona o revista puede ver tus trabajos, afiliación y educación.</text>
+
+  <!-- Opción Amarillo -->
+  <rect x="172" y="268" width="556" height="82" rx="6" fill="#fefce8" stroke="#eab308" stroke-width="2"/>
+  <circle cx="206" cy="309" r="16" fill="#eab308"/>
+  <text x="206" y="314" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">👥</text>
+  <text x="238" y="300" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#854d0e">Partes de confianza</text>
+  <text x="238" y="322" font-family="Arial, sans-serif" font-size="12" fill="#333333">Solo organizaciones o personas que tú autorices expresamente.</text>
+
+  <!-- Opción Rojo -->
+  <rect x="172" y="364" width="556" height="82" rx="6" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+  <circle cx="206" cy="405" r="16" fill="#ef4444"/>
+  <text x="206" y="410" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">🔒</text>
+  <text x="238" y="396" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#991b1b">Solo yo (Privado)</text>
+  <text x="238" y="418" font-family="Arial, sans-serif" font-size="12" fill="#333333">Útil para tu correo personal o datos que no quieres mostrar al público.</text>
+</svg>
